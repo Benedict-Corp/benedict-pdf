@@ -8,7 +8,7 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)](https://github.com/Benedict-Corp/benedict-pdf)
 [![Power Platform](https://img.shields.io/badge/Microsoft-Power%20Platform-742774.svg)](https://www.microsoft.com/en-us/power-platform)
 
-[Website](https://www.benedictcorp.com/) · [Support the Project](https://pay.benedictcorp.store/b/00w3cx79a1N7cT7c1qcAo07) · [Report an Issue](https://github.com/Benedict-Corp/benedict-pdf/issues)
+[Website](https://www.benedictcorp.com/) · [Support the Project](https://buy.stripe.com/00w3cx79a1N7cT7c1qcAo07) · [Report an Issue](https://github.com/Benedict-Corp/benedict-pdf/issues)
 
 ---
 
@@ -579,7 +579,7 @@ BenedictPDF is free and will stay free.
 
 If it saves you time or money, consider supporting Benedict Corp so we can keep building tools like this.
 
-[**Support via Stripe →**](https://pay.benedictcorp.store/b/00w3cx79a1N7cT7c1qcAo07)
+[**Support via Stripe →**](https://buy.stripe.com/00w3cx79a1N7cT7c1qcAo07)
 
 For questions or issues: [github.com/Benedict-Corp/benedict-pdf/issues](https://github.com/Benedict-Corp/benedict-pdf/issues)
 
